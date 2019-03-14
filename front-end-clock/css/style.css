@@ -1,3 +1,17 @@
+body{
+	font-size: 14px;
+	line-height: 1;
+	font-family: "Roboto",sans-serif;
+	color: #444;
+}
+
+h1{
+	font-family: "Roboto",sans-serif;
+}
+
+
+
+
 /* TOPBAR */
 .topbar{
 	height: 30px;
