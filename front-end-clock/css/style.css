@@ -1,17 +1,23 @@
 /* TOPBAR */
-
 .topbar{
 	height: 30px;
 	background-color: #444444;
 }
-
 /* END */
 
-/* HEADER */
 
-.header-main{
+
+
+/* HEADER */
+header{
 	height: 68px;
 	background-color: #000;
 }
+/* END */
+
+
+
+
+/* HEADER */
 
 /* END */
