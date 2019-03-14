@@ -1,8 +1,17 @@
-/* HEADER TOP */
+/* TOPBAR */
 
-.header-top{
+.topbar{
 	height: 30px;
 	background-color: #444444;
+}
+
+/* END */
+
+/* HEADER */
+
+.header-main{
+	height: 68px;
+	background-color: #000;
 }
 
 /* END */
