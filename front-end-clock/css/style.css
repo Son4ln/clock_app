@@ -71,18 +71,28 @@ header{
 	.content-left .best-seller{
 		width: 100%;
 		height: 802px;
-		background-color: #f8f8f8;
+		background-color: #151515;
 	}
 	/* END BEST SELLER */
 
 
 	/* FACEBOOK */
-		.content-left .best-seller{
-			width: 100%;
-			height: 244px;
-			background-color: #f8f8f8;
-		}
+	.content-left .facebook{
+		width: 100%;
+		height: 244px;
+		background-color: #151515;
+		margin-top: 20px;
+	}
 	/* END FACEBOOK */
+
+/* END */
+
+
+
+
+/* CONTENT RIGHT */
+
+
 
 /* END */
 
