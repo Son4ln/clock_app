@@ -92,7 +92,12 @@ header{
 
 /* CONTENT RIGHT */
 
-
+	/* NEW PRODUCT */
+	.content-right .new-product .new-product-item{
+		border: 1px solid #000;
+		height: 385px;
+	}
+	/* END NEW PRODUCT */
 
 /* END */
 
