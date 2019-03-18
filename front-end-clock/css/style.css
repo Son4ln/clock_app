@@ -46,7 +46,7 @@ header{
 
 
 /* CONTENT LEFT */
-.content-left{
+.content-left .categories{
 	width: 100%;
 	height: 234px;
 	background-color: #151515;
