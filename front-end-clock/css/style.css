@@ -107,5 +107,48 @@ header{
 	}
 	/* END NEW PRODUCT */
 
+
+	/* PROMOTION */
+	.content-right .promotion h3{
+		text-align: center;
+	}
+
+	.content-right .promotion .promotion-item{
+		border: 1px solid #000;
+		height: 353px;
+	}
+	/* END PROMOTION */
+
 /* END */
+
+
+
+/* FOOTER TOP */
+.footer-top{
+	height: 85px;
+	background: url(../images/ft-top.jpg);
+}
+/* END */
+
+
+
+/* FOOTER */
+.footer{
+	height: 269px;
+	background-color: #000;
+	padding: 45px 0 15px 0;
+}
+/* END */
+
+
+
+
+/* COPYRIGHT */
+.copyright{
+	height: 56px;
+	background-color: #000;
+	border-top: 1px solid #111;
+}
+/* END */
+
 
