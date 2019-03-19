@@ -84,6 +84,30 @@ header nav .navbar-desktop ul li a{
 .icon-clock-accessories{
 	background: url(../images/clock-accessories.png) no-repeat;
 }
+
+header .form-search{
+	width: 50%;
+}
+
+header .form-search form .input-group input[type="text"]{
+	background: transparent;
+	border: 1px solid #fff;
+	padding: 5px;
+	font-size: 12px;
+	border-radius: 0;
+	height: 34px; 
+}
+
+header .form-search form .input-group button{
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    padding: 0;
+    font-size: 12px;
+    border-radius: 0;
+    background-color: #ffe51e;
+    border: none;
+}
 /* END */
 
 
