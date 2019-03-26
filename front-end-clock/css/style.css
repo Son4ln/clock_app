@@ -85,11 +85,16 @@ header nav .navbar-desktop ul li a{
 	background: url(../images/clock-accessories.png) no-repeat;
 }
 
-header .form-search{
-	width: 50%;
+header form{
+	margin-top: 18px;
 }
 
-header .form-search form .input-group input[type="text"]{
+header .form-search{
+	width: 50%;
+	float: left;
+}
+
+header .form-search .input-group input[type="text"]{
 	background: transparent;
 	border: 1px solid #fff;
 	padding: 5px;
@@ -98,7 +103,7 @@ header .form-search form .input-group input[type="text"]{
 	height: 34px; 
 }
 
-header .form-search form .input-group button{
+header .form-search .input-group button{
     width: 34px;
     height: 34px;
     line-height: 34px;
@@ -107,6 +112,19 @@ header .form-search form .input-group button{
     border-radius: 0;
     background-color: #ffe51e;
     border: none;
+}
+
+header .cart{
+	width: 47%;
+	float: right;
+}
+
+header .cart button{
+	font-size: 14px;
+	border: none;
+	border-radius: 0;
+	background-color: #ffe51e;
+	color: #000;
 }
 /* END */
 
